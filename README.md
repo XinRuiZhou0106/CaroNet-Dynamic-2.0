@@ -32,3 +32,7 @@ Implementation of "Human‒machine interaction based on real-time explainable de
 ```
 $ python inference.py
 ```
+
+# Acknowledgments
+Our code is based on [YOLOv5](https://github.com/ultralytics/yolov5) and [Conformer](https://ieeexplore.ieee.org/document/10040235). We appreciate the authors for their great work.
+
