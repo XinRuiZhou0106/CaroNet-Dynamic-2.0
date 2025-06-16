@@ -4,3 +4,15 @@ Implementation of "Human‒machine interaction based on real-time explainable de
 ## Method Workflow
 ![Workflow](https://github.com/user-attachments/assets/d96445ca-3217-4ca3-90ca-5575fbd307a2)
 
+## Usage
+
+### 1. Prepare testing video data.
+
+<details>
+  
+  <summary>Directory structure for data.</summary>
+
+  ```
+  ```
+  
+</details>
