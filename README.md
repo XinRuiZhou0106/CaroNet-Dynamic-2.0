@@ -1,7 +1,7 @@
 # CaroNet-Dynamic-2.0
 Implementation of "Human‒machine interaction based on real-time explainable deep learning for higher accurate grading of carotid stenosis from transverse B-mode scan videos." in Pytorch -- for model inference.
 
-### Our work has been accepted by European Journal of Radiology (EJR) 2023! 
+### Our work has been accepted by European Journal of Radiology (EJR) 2025! 
 
 ### Our human‒machine interactive online demo is available! [[Demo](https://xinruizhou-caronet-dynamic-v2.hf.space)]
 
